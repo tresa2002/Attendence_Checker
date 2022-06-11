@@ -24,9 +24,9 @@ Pythont
   
 ## Run Locally
  Clone the project
-    git clone https://link-to-project
+    # git clone https://link-to-project
  Go to the project directory
-    cd my-project
+    # cd my-project
  and fill the Instructions for running it :)
  
 
