@@ -6,8 +6,9 @@ def connect_DB(db_file):
     conn=sqlite3.connect(db_file)
     cur=conn.cursor()
  
-    #display participants list 
-    
+#display participants list 
+def participants_list(list_1):
+     new_list=open(list_1,"r")
     
 #creating table of participants
 def table_creation(db_file,list_1):
